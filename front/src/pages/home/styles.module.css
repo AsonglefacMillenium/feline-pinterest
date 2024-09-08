@@ -1,0 +1,12 @@
+.home_wrapper{
+    width: 100vw;
+    padding: 0 ;
+    margin: 0;
+    background-color: #fff;
+}
+
+.home_main{
+    display: flex;
+    width: 100%;
+    
+}
